@@ -6,8 +6,10 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Sample Post</title>
-        <description>&lt;h1 id=&quot;an-h1-header&quot;&gt;An h1 header&lt;/h1&gt;
+				<title>Coloring Black and White Images</title>
+        <description>&lt;p&gt;Coming Soon&lt;/p&gt;
+
+&lt;h1 id=&quot;an-h1-header&quot;&gt;An h1 header&lt;/h1&gt;
 
 &lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;
 
