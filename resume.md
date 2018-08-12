@@ -2,10 +2,10 @@ Dan Finkel
 ============
 I am an experienced leader, data scientist and engineer with an education in Operations Research and Applied Mathematics. I am currently a Principal Data Scientist at Service Management Group, specializing in machine learning, predictive analytics, software engineering and insight creation for customer experience applications. Prior to that I worked at MIT Lincoln Laboratory where I co-led a large research group. At Lincoln I managed programs, worked closely with sponsors, mentored staff and developed business strategies for our group. I have developed technical skills in the areas of machine learning, deep learning, Natural Language Processing, Classification, Bayesian estimation, statistical testing, optimization, algorithm development, software engineering and system prototyping
 -------------------     ----------------------------
-115 Greenlodge St  
+<sub><sup>115 Greenlodge St  
 Dedham MA 02026  
 dan.finkel@gmail.com  
-617-640-9968
+617-640-9968</sub></sup>
 -------------------     ----------------------------
 
 Education
