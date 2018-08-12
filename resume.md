@@ -3,8 +3,10 @@ Dan Finkel
 
 -------------------     ----------------------------
 115 Greenlodge St                        dan.finkel@gmail.com
+
 Dedham MA 02026                          @danfinkel
-USA                           617-640-9968
+
+USA                                      617-640-9968
 -------------------     ----------------------------
 
 Education
