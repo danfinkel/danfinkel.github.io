@@ -2,9 +2,9 @@ Dan Finkel
 ============
 Some intro stuff fun
 -------------------     ----------------------------
-115 Greenlodge St
-Dedham MA 02026
-dan.finkel@gmail.com
+115 Greenlodge St  
+Dedham MA 02026  
+dan.finkel@gmail.com  
 617-640-9968
 -------------------     ----------------------------
 
