@@ -1,31 +1,31 @@
-Johnny Coder
+Dan Finkel
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+115 Greenlodge St                    dan.finkel@gmail.com
+Dedham MA 02026                      617-640-9968                           
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2002-2004
+:   **PhD, Operations Research**; North Carolina State University (GPA 4.0 / 4.0)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Global Optimization with the DIRECT Algorithm* (Advised by C.T. Kelley
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+1998 - 2000
+:   **MS, Applied Mathematics**; North Carolina State University (GPA 3.94 / 4.00)
 
-    *Minor: Awesomeology*
+    *Projet title: Vibration Test for Over-The-Road Mobile Vehicles (Internship at General Electric)*
+
+1994 - 1998
+:   **BS, Mathematics (Minor in Computer Science)**; SUNY Fredonia State (GPA 3.49 / 4.00)
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Principal Data Scientist:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
