@@ -1,11 +1,12 @@
-Dan Finkel
+Dan Finkel  
+115 Greenlodge St  *  Dedham MA 02026  *  dan.finkel@gmail.com  *  617-640-9968
 ============
 I am an experienced leader, data scientist and engineer with an education in Operations Research and Applied Mathematics. I am currently a Principal Data Scientist at Service Management Group, specializing in machine learning, natural language processing, predictive analytics, software engineering and insight creation for customer experience applications.
 -------------------     ----------------------------
-115 Greenlodge St  
-Dedham MA 02026  
-dan.finkel@gmail.com  
-617-640-9968
+
+
+
+
 -------------------     ----------------------------
 
 Education
