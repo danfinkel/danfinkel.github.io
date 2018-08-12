@@ -1,38 +1,31 @@
 Dan Finkel
-
--------------------
-115 Greenlodge St
-Dedham MA 02026
-dan.finkel@gmail.com
-617-640-9968
--------------------
-
-** Summary **
 ============
-I am an experienced leader, data scientist and engineer with an education in Operations Research and Applied Mathematics. I am currently a Principal Data Scientist at Service Management Group, specializing in machine learning, predictive analytics, software engineering and insight creation for customer experience applications. Prior to that I worked at MIT Lincoln Laboratory where I co-led a large research group. At Lincoln I managed programs, worked closely with sponsors, mentored staff and developed business strategies for our group. I have developed technical skills in the areas of machine learning, deep learning, Natural Language Processing, Classification, Bayesian estimation, statistical testing, optimization, algorithm development, software engineering and system prototyping.
 
-
+-------------------     ----------------------------
+115 Greenlodge St                        dan.finkel@gmail.com
+Dedham MA 02026                          @danfinkel
+USA                           617-640-9968
+-------------------     ----------------------------
 
 Education
 ---------
 
-2002-2004
-:   **PhD, Operations Research**; North Carolina State University (GPA 4.0 / 4.0)
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-    *Thesis title: Global Optimization with the DIRECT Algorithm* (Advised by C.T. Kelley
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
-1998 - 2000
-:   **MS, Applied Mathematics**; North Carolina State University (GPA 3.94 / 4.00)
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
-    *Projet title: Vibration Test for Over-The-Road Mobile Vehicles (Internship at General Electric)*
-
-1994 - 1998
-:   **BS, Mathematics (Minor in Computer Science)**; SUNY Fredonia State (GPA 3.49 / 4.00)
+    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Principal Data Scientist:**
+**Your Most Recent Work Experience:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
