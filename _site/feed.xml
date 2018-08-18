@@ -6,6 +6,41 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Text Classification</title>
+        <description>&lt;h2 id=&quot;text-classification-example&quot;&gt;Text Classification Example&lt;/h2&gt;
+
+&lt;p&gt;Coming Soon&lt;/p&gt;
+
+&lt;h1 id=&quot;an-h1-header&quot;&gt;An h1 header&lt;/h1&gt;
+
+&lt;p&gt;Paragraphs are separated by a blank line.&lt;/p&gt;
+
+&lt;p&gt;2nd paragraph. &lt;em&gt;Italic&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;monospace&lt;/code&gt;. Itemized lists
+look like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;this one&lt;/li&gt;
+  &lt;li&gt;that one&lt;/li&gt;
+  &lt;li&gt;the other one&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Thu, 16 Aug 2018 00:00:00 -0400</pubDate>
+				<link>/2018/08/16/text-classifier/</link>
+				<guid isPermaLink="true">/2018/08/16/text-classifier/</guid>
+			</item>
+		
+			<item>
+				<title>Airport Taxi Queues in NYC</title>
+        <description>&lt;h2 id=&quot;analysis-of-taxi-cab-rides-in-nyc&quot;&gt;Analysis of Taxi Cab Rides in NYC&lt;/h2&gt;
+
+&lt;p&gt;Coming Soon&lt;/p&gt;
+</description>
+				<pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+				<link>/2018/06/01/taxis_nyc/</link>
+				<guid isPermaLink="true">/2018/06/01/taxis_nyc/</guid>
+			</item>
+		
+			<item>
 				<title>Coloring Black and White Images</title>
         <description>&lt;p&gt;Coming Soon&lt;/p&gt;
 
@@ -194,6 +229,17 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 				<pubDate>Wed, 02 May 2018 00:00:00 -0400</pubDate>
 				<link>/2018/05/02/ex/</link>
 				<guid isPermaLink="true">/2018/05/02/ex/</guid>
+			</item>
+		
+			<item>
+				<title>Voronoi Diagrams</title>
+        <description>&lt;h2 id=&quot;voronoi-analysis-for-site-evaluation&quot;&gt;Voronoi Analysis for Site Evaluation&lt;/h2&gt;
+
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+				<pubDate>Mon, 02 Oct 2017 00:00:00 -0400</pubDate>
+				<link>/2017/10/02/voronoi/</link>
+				<guid isPermaLink="true">/2017/10/02/voronoi/</guid>
 			</item>
 		
 			<item>
